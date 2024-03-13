@@ -1,0 +1,3 @@
+# berikut list project python 
+-   angka random 
+

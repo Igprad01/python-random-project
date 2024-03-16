@@ -1,4 +1,4 @@
 # berikut list project python 
 - angka random (clear)
 - menghitung mean dsb (clear)
-- dilanjutkan besok belajar numpy library (sementara implement ilmu mtk)
+- open file python
